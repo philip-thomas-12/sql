@@ -60,4 +60,3 @@ Feel free to contribute more examples by opening a pull request!
 
 ---
 
-Would you like me to also create a `.zip` file of all `.sql` files and this `README.md`, or help you push this to GitHub from your terminal or GitHub Desktop?
